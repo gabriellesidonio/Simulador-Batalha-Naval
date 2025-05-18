@@ -1,0 +1,9 @@
+# Arquivos compilados (executáveis)
+nivel-mestre/cone
+nivel-mestre/cruz
+nivel-mestre/octaedro
+
+# Arquivos de backup ou cache
+*.out
+*.exe
+*.log
